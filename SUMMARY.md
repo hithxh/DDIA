@@ -1,6 +1,6 @@
 # Table of contents
 
-* [序](README.md)
+* [数据密集型应用系统设计](README.md)
 
 ## 数据系统的基石
 
